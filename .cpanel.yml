@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/omi3u2f1f2j8/repositories/wp-project/
+    - /bin/cp -R * $DEPLOYPATH
